@@ -9,7 +9,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - [Link para o código](https://github.com/link_do_repositorio/nome_do_arquivo_de_codigo). <!-- Aguardando a disponibilização de repositório pela secretaria -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- Aguardando a disponibilização de repositório pela secretariaa -->
+- [Link para a monografia](https://github.com/danielfidelis/bimastertcc/blob/main/TCC%20-%20Artigo%20An%C3%A1lise%20de%20condi%C3%A7%C3%B5es%20meteoceanogr%C3%A1ficas%20em%20paradas%20de%20embarca%C3%A7%C3%B5es.pdf). <!-- Aguardando a disponibilização de repositório pela secretariaa -->
 
 
 ---
